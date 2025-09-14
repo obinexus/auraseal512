@@ -1,0 +1,6 @@
+# AuraSeal Private Keys - NEVER COMMIT
+.auraseal/
+*.key
+*private*
+sealed/keys/
+Spirit_of_Masquerade_PRIVATE.txt

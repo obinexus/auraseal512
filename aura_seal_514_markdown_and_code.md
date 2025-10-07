@@ -892,8 +892,3 @@ This work is an experimental research artifact. Do not treat this code as crypto
 
 ---
 
-## Footer
-
-If you want this converted here into a PDF by me, say which export tool you prefer (pandoc/LaTeX or wkhtmltopdf) and I will prepare the markdown for best results. Otherwise, download the markdown from the canvas and run the commands above.
-
-

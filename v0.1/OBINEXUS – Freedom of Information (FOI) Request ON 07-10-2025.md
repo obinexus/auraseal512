@@ -1,9 +1,9 @@
-# 🧿 OBINEXUS – Freedom of Information (FOI) Request  
+#  OBINEXUS – Freedom of Information (FOI) Request  
 ## Housing and Social Care Records (Sections 184 & 202, Care Act 2014)
 
 ---
 
-### 📬 Email Headers
+###  Email Headers
 
 **To:** information.matters@thurrock.gov.uk  
 **Cc:** complaints@thurrock.gov.uk, HousingOptions@thurrock.gov.uk  
@@ -17,14 +17,14 @@ Renewal Cycle: 24 + 24 year dual-term
 
 ---
 
-### 🕊️ Motto
+### ️ Motto
 
 > “When systems fail, we build our own.”  
 > — Motto of OBINEXUS  
 
 ---
 
-## 📜 Letter Body
+##  Letter Body
 
 Dear Information Governance Team,
 
@@ -63,7 +63,7 @@ Founder, OBINEXUS
 
 ---
 
-## 🧿 AURA SEAL HEADER  
+##  AURA SEAL HEADER  
 ### The Rebirth of OBINEXUS – HEART / SOUL Design & Technology Constitutional Sector  
 
 **PUBLIC KEY:** (auto-generated at seal time)
@@ -90,7 +90,7 @@ This is my **Founder’s Promise**, the seed sealed with Aura.
 
 ---
 
-### 🌐 OBINEXUS Network Links
+###  OBINEXUS Network Links
 
 | Platform | Link |
 |-----------|------|
@@ -106,7 +106,7 @@ This is my **Founder’s Promise**, the seed sealed with Aura.
 
 ---
 
-## 📩 Thurrock Council Reply (20/05/2025)
+##  Thurrock Council Reply (20/05/2025)
 
 **From:** Olubunmi Akueme, Housing Solutions Officer  
 **To:** Mr Nnamdi Okpala  
@@ -135,7 +135,7 @@ For further queries: **01375 652186**
 
 ---
 
-## 🧾 Metadata for AuraSeal Verification
+##  Metadata for AuraSeal Verification
 
 | Field | Value |
 |-------|-------|
@@ -155,7 +155,7 @@ For further queries: **01375 652186**
 
 ---
 
-### 🕯️ Final Note
+### ️ Final Note
 
 > “When systems fail, build your own.
 > When trust fades, seal your truth.”
